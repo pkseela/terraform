@@ -11,6 +11,9 @@ Create IAM administrator user. Copy the access key and secret key. Don't push to
 Configure user in your laptop using
 aws configure
 Add the terraform path to system variables.
+
+![image](https://user-images.githubusercontent.com/131942255/235355061-65d7712b-5dd8-46cf-9b35-c6adeb2cf47c.png)
+
 alt text
 
 Terraform is popular IaC (Infrastructure as a Code) tool. It is best in the market now.
